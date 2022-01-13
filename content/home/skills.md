@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: []
   icon: project-diagram
-  icon_pack: fab
+  icon_pack: fas
   name: Data Science
 - description: []
   icon: laptop-code
