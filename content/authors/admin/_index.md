@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I am excited about modernizing mental health treatment and diagnostics through tech as well as making healthcare, science, and engineering more understandable, accessible, and equitable. I hope to use this site to make news and topics in science and engineering more consumable. Feel free to reach out to discuss an idea or grab a coffee! I believe open collaboration is the best path forward.
+I am excited about modernizing how we treat and diagnose mental health through tech. I also hope to make science, tech, and healthcare more understandable, accessible, and equitable. Feel free to reach out to discuss an idea or grab a coffee!
 
 Also here you'll find my passions including skiing, travelling, comedy, writing and more!
 
