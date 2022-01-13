@@ -21,7 +21,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: mwagner@ucsd.edu
-email: mwagner92796@gmail.com
+contact_links:
+  - icon: envelope
+    icon_pack: fas 
+    name: Personal email
+    links: mwagner92796@gmail.com
 #phone: 630 808 6840
 #address:
   #street: 450 Serra Mall
