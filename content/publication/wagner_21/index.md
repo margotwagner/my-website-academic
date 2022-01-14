@@ -16,8 +16,15 @@ publication_types:
   - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: "Frontiers in Neuroscience"
-publication_short: "Front. Neurosci."
+publication: "*Frontiers in Neuroscience*"
+publication_short: "*Front Neurosci*"
+
+abstract: Progress in computational neuroscience toward understanding brain function is challenged both by the complexity of molecular-scale electrochemical interactions at the level of individual neurons and synapses and the dimensionality of network dynamics across the brain covering a vast range of spatial and temporal scales. Our work abstracts an existing highly detailed, biophysically realistic 3D reaction-diffusion model of a chemical synapse to a compact internal state space representation that maps onto parallel neuromorphic hardware for efficient emulation at a very large scale and offers near-equivalence in input-output dynamics while preserving biologically interpretable tunable parameters.
+
+# Summary. An optional shortened abstract.
+summary: Mathematically abstracting and simulating a highly detailed and biophysically realistic 3D reaction-diffusion model of a chemical synapse to a compact internal state space representation for efficient large scale models of synaptic learning and dynamics in software and hardware.
+
+
 
 draft: false
 featured: false
