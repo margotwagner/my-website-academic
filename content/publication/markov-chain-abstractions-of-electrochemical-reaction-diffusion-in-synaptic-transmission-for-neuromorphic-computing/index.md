@@ -1,6 +1,5 @@
 ---
-title: Markov Chain Abstractions of Electrochemical Reaction-Diffusion in
-  Synaptic Transmission for Neuromorphic Computing
+title: wagner_21
 publication_types:
   - "0"
 draft: false
