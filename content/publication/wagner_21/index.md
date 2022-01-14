@@ -25,7 +25,8 @@ abstract: Progress in computational neuroscience toward understanding brain func
 summary: Mathematically abstracting and simulating a highly detailed and biophysically realistic 3D reaction-diffusion model of a chemical synapse to a compact internal state space representation for efficient large scale models of synaptic learning and dynamics in software and hardware.
 
 # links:
-#url: 'https://www.frontiersin.org/articles/10.3389/fnins.2021.698635/full'
+- name: 'URL'
+  url: 'https://www.frontiersin.org/articles/10.3389/fnins.2021.698635/full'
 url_dataset: 'https://github.com/margotwagner/markov-mcell-data'
 
 # Featured image
