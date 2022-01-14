@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher
     company: University of California, San Diego
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-ucsd
     location: San Diego, California
     date_start: '2018-09-25'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Graduate Teaching Assistant 
     company: University of California, San Diego
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-ucsd
     location: California
     date_start: '2019-01-01'
     date_end: '2020-03-20'
@@ -46,7 +46,7 @@ experience:
   - title: REU Intern  
     company: Tufts University 
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-tufts
     location: Medford, Massachusetts
     date_start: '2017-05-01'
     date_end: '2017-08-20'
@@ -55,7 +55,7 @@ experience:
   - title: Software Quality Assurance Intern
     company: Hologic, Inc.
     company_url: ''
-    company_logo: org-x
+    company_logo: org-hologic
     location: Newark, Delaware
     date_start: '2016-06-01'
     date_end: '2016-12-15'
