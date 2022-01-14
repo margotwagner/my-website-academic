@@ -1,5 +1,5 @@
 ---
-title: wagner_21
+title: 'Markov Chain Abstractions of Electrochemical Reaction-Diffusion in Synaptic Transmission for Neuromorphic Computing'
 publication_types:
   - "0"
 draft: false
