@@ -29,7 +29,7 @@ abstract: Quantum dots (QDs) conjugated with 1,25 dihydroxyvitamin D3 (calcitrio
 summary: A physiologically-based pharmacokinetic model was has been constructed, optimized, and simulated to match experimental data for multiple quantum dots (QD) to predict bound and unbound concentrations in key tissues.
 
 # links:
-#url_source: 'https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.12664?af=R'
+url_source: 'https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.12664?af=R'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -39,6 +39,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: "Physiologically-based pharmacokinetic connectivity for healthy, nontumor case (left), early-stage tumor (middle), and late-stage tumor (right)."
 
 ---
