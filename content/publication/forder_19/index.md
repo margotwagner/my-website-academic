@@ -1,12 +1,16 @@
 ---
-title: 'Markov Chain Abstractions of Electrochemical Reaction-Diffusion in Synaptic Transmission for Neuromorphic Computing'
+title: 'A Physiologically-Based Pharmacokinetic Model for Targeting Calcitriol-Conjugated Quantum Dots to Inflammatory Breast Cancer Cells'
 authors:
+- James Forder
+- Mallory Smith
 - margotwagner
-- Thomas M. Bartol
-- Terrence J. Sejnowski
-- Gert Cauwenberghs
-date: 2021-11-29T23:09:22.194Z
-doi: ""
+- Rachel J. Shaefer
+- Jonathon Gorky
+- Kenneth L. van Golen
+- Anja Nohe
+- Prasad Dhurjati
+date: 2019-07-15T23:09:22.194Z
+doi: "10.1111/cts.12664"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,17 +20,16 @@ publication_types:
   - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Neuroscience*"
-publication_short: "*Front Neurosci*"
+publication: "*Clinical and Translational Science*"
+publication_short: "*CTS*"
 
-abstract: Progress in computational neuroscience toward understanding brain function is challenged both by the complexity of molecular-scale electrochemical interactions at the level of individual neurons and synapses and the dimensionality of network dynamics across the brain covering a vast range of spatial and temporal scales. Our work abstracts an existing highly detailed, biophysically realistic 3D reaction-diffusion model of a chemical synapse to a compact internal state space representation that maps onto parallel neuromorphic hardware for efficient emulation at a very large scale and offers near-equivalence in input-output dynamics while preserving biologically interpretable tunable parameters.
+abstract: Quantum dots (QDs) conjugated with 1,25 dihydroxyvitamin D3 (calcitriol) and Mucin-1 (MUC-1) antibodies (SM3) have been found to target inflammatory breast cancer (IBC) tumors and reduce proliferation, migration, and differentiation of these tumors in mice. A physiologically-based pharmacokinetic model has been constructed and optimized to match experimental data for multiple QDs - control QDs, QDs conjugated with calcitriol, and QDs conjugated with both calcitriol and SM3 MUC1 antibodies. The model predicts continuous QD concentration for key tissues in mice distinguished by IBC stage (healthy, early-stage, and late-stage). Experimental and clinical efforts in QD treatment of IBC can be augmented by in silico simulations that predict the short-term and long-term behavior of QD treatment regimens.
 
 # Summary. An optional shortened abstract.
-summary: Mathematically abstracting and simulating a highly detailed and biophysically realistic 3D reaction-diffusion model of a chemical synapse to a compact internal state space representation for efficient large scale models of synaptic learning and dynamics in software and hardware.
+summary: A physiologically-based pharmacokinetic model was has been constructed, optimized, and simulated to match experimental data for multiple quantum dots (QD) to predict bound and unbound concentrations in key tissues.
 
 # links:
-url_source: 'https://www.frontiersin.org/articles/10.3389/fnins.2021.698635/full'
-url_dataset: 'https://github.com/margotwagner/markov-mcell-data'
+url_source: 'https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.12664?af=R'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
