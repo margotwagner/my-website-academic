@@ -38,7 +38,7 @@ featured: false
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: "Physiologically-based pharmacokinetic connectivity for healthy, nontumor case (left), early-stage tumor (middle), and late-stage tumor (right)."
 
 ---

@@ -31,11 +31,11 @@ url_dataset: 'https://github.com/margotwagner/markov-mcell-data'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: ""
 
 ---
