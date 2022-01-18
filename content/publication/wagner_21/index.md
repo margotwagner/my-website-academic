@@ -36,6 +36,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: true
-  caption: ""
+  caption: "Markov sampling scheme for state transitions using partitions
+of unity."
 
 ---
