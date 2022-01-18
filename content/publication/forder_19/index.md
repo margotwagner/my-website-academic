@@ -26,7 +26,7 @@ publication_short: "*CTS*"
 abstract: Quantum dots (QDs) conjugated with 1,25 dihydroxyvitamin D3 (calcitriol) and Mucin-1 (MUC-1) antibodies (SM3) have been found to target inflammatory breast cancer (IBC) tumors and reduce proliferation, migration, and differentiation of these tumors in mice. A physiologically-based pharmacokinetic model has been constructed and optimized to match experimental data for multiple QDs - control QDs, QDs conjugated with calcitriol, and QDs conjugated with both calcitriol and SM3 MUC1 antibodies. The model predicts continuous QD concentration for key tissues in mice distinguished by IBC stage (healthy, early-stage, and late-stage). Experimental and clinical efforts in QD treatment of IBC can be augmented by in silico simulations that predict the short-term and long-term behavior of QD treatment regimens.
 
 # Summary. An optional shortened abstract.
-summary: A physiologically-based pharmacokinetic model was has been constructed, optimized, and simulated to match experimental data for multiple quantum dots (QD) to predict bound and unbound concentrations in key tissues.
+summary: A physiologically-based pharmacokinetic model was constructed, optimized, and simulated to match experimental data for multiple quantum dots (QD) to predict bound and unbound concentrations in key tissues.
 
 # links:
 #url_source: 'https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.12664?af=R'
