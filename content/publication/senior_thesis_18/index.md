@@ -1,35 +1,26 @@
 ---
-title: 'A Physiologically-Based Pharmacokinetic Model for Targeting Calcitriol-Conjugated Quantum Dots to Inflammatory Breast Cancer Cells'
+title: 'A Physiology-Based Pharmacokinetic Approach to Calcitriol Quantum Dot Distribution for Use in Inflammatory Breast Cancer Treatment'
 authors:
-- James Forder
-- Mallory Smith
 - margotwagner
-- Rachel J. Shaefer
-- Jonathon Gorky
-- Kenneth L. van Golen
-- Anja Nohe
-- Prasad Dhurjati
-date: 2019-07-15T23:09:22.194Z
-doi: "10.1111/cts.12664"
+date: 2018-06-01T23:09:22.194Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-  - "2"
+  - "7"
 
 # Publication name and optional abbreviated publication name.
-publication: "*Clinical and Translational Science*"
-publication_short: "*CTS*"
+publication: "University of Delaware"
+publication_short: ""
 
-abstract: Quantum dots (QDs) conjugated with 1,25 dihydroxyvitamin D3 (calcitriol) and Mucin-1 (MUC-1) antibodies (SM3) have been found to target inflammatory breast cancer (IBC) tumors and reduce proliferation, migration, and differentiation of these tumors in mice. A physiologically-based pharmacokinetic model has been constructed and optimized to match experimental data for multiple QDs - control QDs, QDs conjugated with calcitriol, and QDs conjugated with both calcitriol and SM3 MUC1 antibodies. The model predicts continuous QD concentration for key tissues in mice distinguished by IBC stage (healthy, early-stage, and late-stage). Experimental and clinical efforts in QD treatment of IBC can be augmented by in silico simulations that predict the short-term and long-term behavior of QD treatment regimens.
+abstract: Inflammatory breast cancer (IBC) is a rare yet aggressive form of breast cancer accounting for 1-5% of breast cancer cases. Due to its typically delayed diagnosis and highly metastatic nature, IBC has the lowest overall survival rate compared to other forms of breast cancer. Current treatment uses an aggressive multi-targeting approach but is still not very successful. Recent studies have indicated that calcitriol, the active form of vitamin D, has beneficial effects again SUM149 IBC cell proliferation, migration, and differentiation. Calcitriol can be conjugated with quantum dots (QDs) to allow for live cell direct imaging. Furthermore, IBC targeting methods utilizing SM3 have been demonstrated as effective which provide a method to target calcitriol directly to tumors while also monitoring QD levels. Here, a top-down physiology-based pharmacokinetic model was constructed and demonstrated as a method to augment in vitro and in vivo testing to provide additional simulated information on the behavior of QD treatment strategies for use in IBC. Overall, we were able to construct an effective model to describe the system in question and found results consistent with experimental studies of similar systems. Further in vitro studies would allow for replacement of some currently estimated parameters with biologically relevant ones.
 
 # Summary. An optional shortened abstract.
-summary: A physiologically-based pharmacokinetic model was has been constructed, optimized, and simulated to match experimental data for multiple quantum dots (QD) to predict bound and unbound concentrations in key tissues.
+summary: A physiologically-based pharmacokinetic model was constructed, optimized, and simulated to match experimental data for multiple quantum dots (QD) to predict bound and unbound concentrations in key tissues.
 
 # links:
-url_source: 'https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.12664?af=R'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
