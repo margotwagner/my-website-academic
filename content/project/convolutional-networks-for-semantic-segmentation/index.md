@@ -1,6 +1,6 @@
 ---
 title: Convolutional Networks for Semantic Segmentation
-summary: Built various deep CNN architectures and train them to predict the segmentation masks of the images in the India Driving Dataset as a semantic segmentation task.
+summary: Built various deep CNN architectures and trained them to predict the segmentation masks of the images in the India Driving Dataset as a semantic segmentation task.
 tags:
 - Deep Learning
 - Convolutional Neural Networks
@@ -23,6 +23,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+#https://github.com/Keshav919/CSE251B_PA3
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
