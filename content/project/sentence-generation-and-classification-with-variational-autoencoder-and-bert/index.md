@@ -22,9 +22,9 @@ links:
   icon_pack: fab
   name: Repo
   url: https://github.com/JinlongHuang/CSE251B_Final_Project
-url_code: "https://github.com/JinlongHuang/CSE251B_Final_Project"
+url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "static/uploads/sentence-generation-BERT-slides.pdf"
 url_video: ""
 
 # Slides (optional).
