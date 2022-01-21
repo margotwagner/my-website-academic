@@ -24,7 +24,7 @@ links:
   url: https://github.com/JinlongHuang/CSE251B_Final_Project
 url_code: ""
 url_pdf: ""
-url_slides: "static/uploads/sentence-generation-BERT-slides.pdf"
+url_slides: "uploads/sentence-generation-BERT-slides.pdf"
 url_video: ""
 
 # Slides (optional).
