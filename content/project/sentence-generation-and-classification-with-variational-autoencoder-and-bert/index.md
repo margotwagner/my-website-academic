@@ -5,6 +5,7 @@ tags:
 - Deep Learning
 - Classification
 - Text Generation
+- PyTorch
 date: 2021-03-20T20:06:45.112Z
 
 # Optional external URL for project (replaces project detail page).
@@ -19,7 +20,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Follow
+  name: Repo
   url: https://github.com/JinlongHuang/CSE251B_Final_Project
 url_code: ""
 url_pdf: ""
@@ -36,4 +37,8 @@ slides: example
 draft: false
 featured: false
 ---
+
+*Abstract*
+In this paper, we explore logical and style-specific sentence generation. Given a
+sentence (premise), the goal is to write a hypothesis that either agrees, contradicts, or says nothing about the premise. In order to achieve this goal we use the Contradictory, My Dear Watson dataset from Kaggle and the Stanford Natural Language Inference (SNLI) dataset. We leverage a conditional variational autoencoder for text generation that can take a premise and class label (entail, contradict, or neutral) to generate a hypothesis specific to that class type. We use the classification results from a BERT model in order to evaluate the style transfer to generating the sentences. While our BERT classifier achieved a loss of 0.291 and accuracy of 89.1% on the ground truth dataset, the classifier achieved a loss of 3.513 and accuracy of 38.7% on our best-performing conditional VAE generated examples, performing only slightly better than random chance. Our results suggest that more work needs to be done to algorithmically generate style-specific sentences following specific logical rules.
 
