@@ -21,6 +21,14 @@ slides:
 
 ---
 
+### Introduction
+- **Natural-language generation:** transformation of structured data into natural language, in this case using AI techniques
+- **Current SOTA:** *GPT-3* by OpenAI -- 175 billion parameters (May 2020)
+- **Problem:** text generation can tend to be contradictory
+- **Goal:** generate text responses with different levels of contradictoriness
+
+---
+
 # Create slides in Markdown with Wowchemy
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
