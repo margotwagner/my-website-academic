@@ -7,7 +7,7 @@ tags:
 - Computer Vision
 - PyTorch
 - Python
-date: 2021-03-20T20:06:45.112Z
+date: 2021-02-16T20:06:45.112Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,7 +21,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/sentence-generation-BERT-slides.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
