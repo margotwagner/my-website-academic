@@ -12,7 +12,7 @@ date: 2021-03-20T20:06:45.112Z
 external_link: ""
 
 image:
-  caption: "BERT Architecture that was fine-tuned with the premise-hypothesis pairs (rather than the question-paragraph) pairs shown here. C is the ’Next Sentence Prediction’ which represents a classification for our hypothesis. Figure from (Devlin 2018)."
+  caption: "BERT Architecture that was fine-tuned with the premise-hypothesis pairs (Fig from Devlin 2018)."
   filename: featured
   focal_point: Smart
   preview_only: false
