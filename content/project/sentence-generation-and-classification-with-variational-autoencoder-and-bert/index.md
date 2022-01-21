@@ -1,11 +1,12 @@
 ---
 title: Sentence Generation and Classification with Variational Autoencoder and BERT
-summary: Given a sentence (premise), the goal is to write a hypothesis that either agrees, contradicts, or says nothing about the premise. A conditional variational autoencoder uses a premise and class label to generate a hypothesis specific to that class type. Then, a BERT model is used to classify the results in order to evaluate the style transfer to generating the sentences. 
+summary: A conditional variational autoencoder uses a sentence premise and lass label to generate a hypothesis specific to that class type. Then, a BERT model is used to classify the results in order to evaluate the style transfer to generating the sentences. 
 tags:
 - Deep Learning
 - Classification
 - Text Generation
 - PyTorch
+- Python
 date: 2021-03-20T20:06:45.112Z
 
 # Optional external URL for project (replaces project detail page).
