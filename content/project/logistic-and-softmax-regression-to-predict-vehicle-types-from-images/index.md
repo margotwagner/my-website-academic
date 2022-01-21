@@ -1,31 +1,25 @@
 ---
-title: Sentence Generation and Classification with Variational Autoencoder and BERT
-summary: A conditional variational autoencoder uses a sentence premise and lass label to generate a hypothesis specific to that class type. Then, a BERT model is used to classify the results in order to evaluate the style transfer to generating the sentences. 
+title: Logistic and Softmax Regression to Predict Vehicle Types from Images
+summary: Trained logistic and softmax regression models built from scratch to predict vehicle types from 200x300 pixel images from the Comprehensive Cars dataset.
 tags:
-- Deep Learning
+- Machine Learning
 - Classification
-- Text Generation
-- PyTorch
 - Python
-date: 2021-03-20T20:06:45.112Z
+date: 2021-01-18T20:06:45.112Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: "BERT Architecture that was fine-tuned with the premise-hypothesis pairs (Fig from Devlin 2018)."
+  caption: "The Comprehensive Cars (CompCars) dataset (Yang 2015)."
   filename: featured
   focal_point: Smart
   preview_only: false
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Repo
-  url: https://github.com/JinlongHuang/CSE251B_Final_Project
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/sentence-generation-BERT-slides.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -39,5 +33,4 @@ draft: false
 featured: false
 ---
 
-In this paper, we explore logical and style-specific sentence generation. Given a
-sentence (premise), the goal is to write a hypothesis that either agrees, contradicts, or says nothing about the premise. In order to achieve this goal we use the Contradictory, My Dear Watson dataset from Kaggle and the Stanford Natural Language Inference (SNLI) dataset. We leverage a conditional variational autoencoder for text generation that can take a premise and class label (entail, contradict, or neutral) to generate a hypothesis specific to that class type. We use the classification results from a BERT model in order to evaluate the style transfer to generating the sentences. While our BERT classifier achieved a loss of 0.291 and accuracy of 89.1% on the ground truth dataset, the classifier achieved a loss of 3.513 and accuracy of 38.7% on our best-performing conditional VAE generated examples, performing only slightly better than random chance. Our results suggest that more work needs to be done to algorithmically generate style-specific sentences following specific logical rules.
+We trained logistic and softmax regression models to predict vehicle types from 200x300 pixel images from the Comprehensive Cars dataset. We achieved 60\% test accuracy classifying Convertible and Minivan vehicle types on the resized dataset. In our second model, we achieved 76.4\% average test accuracy classifying Convertible and Minivan vehicle types on the aligned dataset. In our third model, we achieved 80.0\% average test accuracy classifying Sedan and Pickup vehicle types. Lastly, we achieved 57.96\% average test accuracy classifying all four vehicle types using multiclass softmax regression. We observed that model performance is related to the visual similarity of vehicle types in the prediction task. We also explored the effect of varying the number of principal components, learning rate, and using batch vs. gradient descent throughout our analyses.
