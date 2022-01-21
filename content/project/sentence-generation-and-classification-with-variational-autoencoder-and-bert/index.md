@@ -1,6 +1,7 @@
 ---
 title: Sentence Generation and Classification with Variational Autoencoder and BERT
 summary: A conditional variational autoencoder uses a sentence premise and lass label to generate a hypothesis specific to that class type. Then, a BERT model is used to classify the results in order to evaluate the style transfer to generating the sentences. 
+authors: margotwagner
 tags:
 - Deep Learning
 - Classification
