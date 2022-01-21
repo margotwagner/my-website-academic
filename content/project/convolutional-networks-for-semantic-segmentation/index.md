@@ -1,10 +1,10 @@
 ---
-title: Sentence Generation and Classification with Variational Autoencoder and BERT
-summary: A conditional variational autoencoder uses a sentence premise and lass label to generate a hypothesis specific to that class type. Then, a BERT model is used to classify the results in order to evaluate the style transfer to generating the sentences. 
+title: Convolutional Networks for Semantic Segmentation
+summary: Built various deep CNN architectures and train them to predict the segmentation masks of the images in the India Driving Dataset as a semantic segmentation task.
 tags:
 - Deep Learning
-- Classification
-- Text Generation
+- Convolutional Neural Networks
+- Computer Vision
 - PyTorch
 - Python
 date: 2021-03-20T20:06:45.112Z
@@ -13,16 +13,12 @@ date: 2021-03-20T20:06:45.112Z
 external_link: ""
 
 image:
-  caption: "BERT Architecture that was fine-tuned with the premise-hypothesis pairs (Fig from Devlin 2018)."
+  caption: "High-level architecture for baseline encoder-decorder CNN model."
   filename: featured
   focal_point: Smart
   preview_only: false
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Repo
-  url: https://github.com/JinlongHuang/CSE251B_Final_Project
 url_code: ""
 url_pdf: ""
 url_slides: "uploads/sentence-generation-BERT-slides.pdf"
@@ -39,5 +35,4 @@ draft: false
 featured: false
 ---
 
-In this paper, we explore logical and style-specific sentence generation. Given a
-sentence (premise), the goal is to write a hypothesis that either agrees, contradicts, or says nothing about the premise. In order to achieve this goal we use the Contradictory, My Dear Watson dataset from Kaggle and the Stanford Natural Language Inference (SNLI) dataset. We leverage a conditional variational autoencoder for text generation that can take a premise and class label (entail, contradict, or neutral) to generate a hypothesis specific to that class type. We use the classification results from a BERT model in order to evaluate the style transfer to generating the sentences. While our BERT classifier achieved a loss of 0.291 and accuracy of 89.1% on the ground truth dataset, the classifier achieved a loss of 3.513 and accuracy of 38.7% on our best-performing conditional VAE generated examples, performing only slightly better than random chance. Our results suggest that more work needs to be done to algorithmically generate style-specific sentences following specific logical rules.
+In this paper, our goal is to apply an encoder-decoder network for the problem of semantic segmentation on the India Driving Dataset. Semantic segmentation belongs to the field of persistent problems in computer vision that requires high accuracy and efficiency, with applications in autonomous driving, robotics, and e-commerce. Our baseline model achieved a pixel accuracy of {\bf 0.699} and an Intersection over Union (IoU) of {\bf 0.159}. We worked to improve the results from a fully convolutional encoder-decoder network using various techniques including augmenting the dataset and addressing class imbalance, with the combination of techniques resulting in an accuracy of {\bf 0.691} and IoU of {\bf 0.144}. We further experimented to optimize the model by utilizing different architectures including changes to the activation function and number of layers, transfer learning, and U-Net implementation. Our best model, using transfer learning, sees a test accuracy of {\bf 0.723}, and a test IoU of {\bf 0.149}.
