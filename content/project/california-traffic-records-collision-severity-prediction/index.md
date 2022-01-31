@@ -1,5 +1,5 @@
 ---
-title: California Traffic Records Collision Severity Preidction
+title: California Traffic Records Collision Severity Prediction
 summary: Using the California Statewide Integrated Traffic Records System dataset from 2001-2020, we look at various features and models to classify between collision severity. 
 tags:
 - Machine Learning
@@ -17,7 +17,7 @@ image:
   preview_only: false
 
 links:
-url_code: ""
+url_code: "https://github.com/margotwagner/collision-severity-prediction.git"
 url_pdf: ""
 url_slides: ""
 url_video: ""
