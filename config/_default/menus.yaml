@@ -16,6 +16,10 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
+  - name: Ski
+    url: 'content/ski.md'
+    weight: 50
+
   #- name: Contact
   #  url: '#contact'
   #  weight: 50
