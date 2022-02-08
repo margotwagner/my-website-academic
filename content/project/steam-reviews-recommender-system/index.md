@@ -29,7 +29,7 @@ url_video: ""
 #slides: "example"
 
 draft: false
-featured: true
+featured: false
 ---
 
 ### Task 1: Would Play
