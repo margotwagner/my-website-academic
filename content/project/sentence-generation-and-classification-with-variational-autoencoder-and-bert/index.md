@@ -36,7 +36,7 @@ url_video: ""
 #slides: "example"
 
 draft: false
-featured: false
+featured: true
 ---
 
 In this paper, we explore logical and style-specific sentence generation. Given a
