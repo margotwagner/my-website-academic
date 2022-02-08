@@ -24,7 +24,7 @@ header:
 # {{< toc >}}
 ---
 
-Off we go for another ski season on the road
+Off we go for another ski season on the road...
 
 January 31st - March 15th, 2022
 
@@ -34,5 +34,4 @@ January 31st - March 15th, 2022
 
 
 # Revelstoke 
-{{< gallery album="revelstoke" >}}
 
