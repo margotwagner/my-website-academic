@@ -12,3 +12,7 @@ header:
 ---
 
 Add your *content* here...
+
+{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vQfYwoBk9sGqLsXrkRPAx9PieF12PhIr67hcgGwyi29Q1xK9SXryWq_9M03AGgyfjXJ6VJmrEh_Wqzg/pub?embedded=true" >}}
+
+{{<iframe src="https://docs.google.com/document/d/e/2PACX-1vQfYwoBk9sGqLsXrkRPAx9PieF12PhIr67hcgGwyi29Q1xK9SXryWq_9M03AGgyfjXJ6VJmrEh_Wqzg/pub?embedded=true"></iframe>}}
