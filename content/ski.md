@@ -17,6 +17,8 @@ header:
 # Reviews? Info on snow fall?
 
 # Make quick facts table nice
+
+# Eventually videos
 ---
 
 Off we go for another ski season on the road
@@ -28,4 +30,4 @@ January 31st - March 15th, 2022
 {{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqkjprvkP_4oeto45yMidndM6ngguaOWB5rWR-W0xjRvb05uDCk6XJl7LYMhJYhwvZ5jWVr65zRh8Y/pubhtml?gid=1135383459&amp;single=true&amp;widget=true&amp;headers=false" >}}
 
 # Revelstoke 
-{{< gallery album="<revelstoke>" >}}
+
