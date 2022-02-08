@@ -32,7 +32,7 @@ url_video: ""
 #slides: "example"
 
 draft: false
-featured: false
+featured: true
 ---
 
 This project analyzes single subject RNA-Seq data from the Allen Brain Atlas for clinically healthy patient. Here we look to see if there are significant variations in gene expression data between regions at different resolutions and if that data can be used to determine localization of drug behavior based on chemical similarity to metabolites transported by transporters genetically expressed. We find that this dataset can be used to train and test models to predict brain region information at lower structure-level resolutions, but more information would be needed to reach substructure or molecular resolutions. This can highlight important gene features associated with various regions of the brain, giving insight to their functions. Additionally, gene expression can be mapped from genes to transporters to metabolites to drugs, but more information on metabolites would be required. The cerebellum uptakes drugs with the highest activity compared to the cortex and brainstem. 
