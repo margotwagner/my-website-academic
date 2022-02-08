@@ -15,3 +15,4 @@ Add your *content* here...
 
 {{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vQfYwoBk9sGqLsXrkRPAx9PieF12PhIr67hcgGwyi29Q1xK9SXryWq_9M03AGgyfjXJ6VJmrEh_Wqzg/pub?embedded=true" >}}
 
+{{<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SuYam2lJZkozO_aERZwX3b3TcO7z6Hys&ehbc=2E312F" width="640" height="480"></iframe>}}
