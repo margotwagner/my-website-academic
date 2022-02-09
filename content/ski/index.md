@@ -31,7 +31,7 @@ January 31st - March 15th, 2022
 {{< gdocs src="https://www.google.com/maps/d/u/0/embed?mid=1SuYam2lJZkozO_aERZwX3b3TcO7z6Hys&ehbc=2E312F" width="640" height="480">}}
 
 
-{{< figure src="resort-quick-facts.png" caption="" numbered="true" theme="light" >}}
+{{< figure src="resort-quick-facts.png" caption="" numbered="true" >}}
 
 
 # Revelstoke 
