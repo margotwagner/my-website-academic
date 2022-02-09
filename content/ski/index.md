@@ -34,5 +34,4 @@ January 31st - March 15th, 2022
 
 
 # Revelstoke 
-{{< gallery album="revelstoke" >}}
 
