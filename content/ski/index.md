@@ -41,4 +41,6 @@ January 31st - March 15th, 2022
 # Revelstoke 
 Revelstoke is a relatively new mountain, having only opened in 2007. Despite having a huge skiable area, there's veritably only three lifts: the main gondola, Stoke chair, and Ripper chair. It usurped Whistler Blackcomb as the longest vertical descent of any ski resort in North America (5620 ft) which logically gave it the longest run in North America and the 4th longest in the world at 9.6 miles (The Last Spike). More than anything, it's known for its powder and big mountain terrain, and the resort added Sno-Cat and Heliskiing tours. 
 
+We were in awe from driving in with feet of snow adorning the limited houses and town of Revelstoke. Since 
+
 {{< gallery album="revelstoke" >}}
