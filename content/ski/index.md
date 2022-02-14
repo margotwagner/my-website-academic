@@ -3,7 +3,7 @@ title: Ikonic Tour 2022
 date: "2022-02-04T06:57:00Z"
 subtitle: Ski season on the road
 type: "widget_page"
-headless: false # unsure what this means really..."Homepage is headless, other widget pages are not."
+headless: true # unsure what this means really..."Homepage is headless, other widget pages are not."
 
 
 # Optional header image (relative to `assets/media/` folder).
