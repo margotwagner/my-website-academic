@@ -13,6 +13,24 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
     image_position: center
+
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
+
+# Add trail maps (Honest Trail maps)
+
+# Add rotating images 
+
+# Eventually videos
+
+# Table of contents 
+# {{< toc >}}
+
+
+#{{< gallery album="revelstoke" >}}
 ---
 
 Off we go for another ski season on the road...
@@ -20,13 +38,13 @@ Off we go for another ski season on the road...
 January 31st - March 15th, 2022
 
 <div align="center">
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SuYam2lJZkozO_aERZwX3b3TcO7z6Hys&ehbc=2E312F" width="640" height="480"></iframe>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SuYam2lJZkozO_aERZwX3b3TcO7z6Hys&ehbc=2E312F" width="800" height="600"></iframe>
   <figcaption>Map of Ikonic tour from Revelstoke, BC (January 31st) to Steamboat, CO (March 15th).</figcaption>
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <img src="resort-quick-facts.png" width="640" height="480">
+  <img src="resort-quick-facts.png" width="800" height="600">
   <figcaption>Resort quick facts</figcaption>
 </div>
