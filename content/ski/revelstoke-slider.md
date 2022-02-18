@@ -1,8 +1,9 @@
 ---
 widget: slider
-headless: true  # This file represents a page section.
+headless: true 
 
-# ... Put Your Section Options Here (section position etc.) ...
+date: "2022-02-17T06:57:00Z"
+weight: 21  # section position on page
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -14,14 +15,14 @@ height: 300px
 
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: ''
+    content: ''
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#666'  # An HTML color value.
-    #overlay_img: bubbles.jpg  # Image path relative to your `assets/media/` folder
+    #overlay_color: '#666'  # An HTML color value.
+    overlay_img: revelstoke/IMG_5942.jpeg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
