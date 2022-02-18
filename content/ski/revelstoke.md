@@ -7,6 +7,8 @@ weight: 20  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+
+{{< gallery album="revelstoke" >}}
 ---
 
 # Revelstoke
@@ -21,4 +23,3 @@ The snow never truly stopped while we were there, with the peak going in and out
 
 {{< figure src="IMG_5943.jpeg" caption="A caption" numbered="true" >}}
 
-{{< gallery album="revelstoke" >}}
