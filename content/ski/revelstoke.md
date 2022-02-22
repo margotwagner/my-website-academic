@@ -19,5 +19,7 @@ Revelstoke is my ski heaven. We arrived at night, so the next morning we found o
 The snow never truly stopped while we were there, with the peak going in and out of the clouds. It occasionally got a bit socked in with the snowfall at the top, which made it hard to see, but the new snow was worth it and provided a comfortable landing for any fall. Due to the sheer size of the mountain and the quantity of snow, it seemed the mountain could never truly be skied out. There were always pockets of powder everywhere you looked. I remember being at the top of the lift just thinking to myself “okay, which powder spot do I want to play in now.” There was countless glade runs (my favorite) and breathtaking views. Saturday was a bit rough in the morning since it was the day after a snowstorm (a perfect powder day), and the limited lifts presented significant bottlenecks. Luckily it cleared out pretty quickly around lunchtime, and the long powdery runs proved worth the wait. I absolutely cannot wait to go back and do heliskiing.
 
 Vibe: pro freeskiers and backcountry nuts
+
+![screen reader text](revelstoke.jpeg "caption")
 *Pictures and videos coming soon*
 
