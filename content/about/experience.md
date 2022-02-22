@@ -64,5 +64,3 @@ experience:
 design:
   columns: '2'
 ---
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
