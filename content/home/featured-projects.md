@@ -39,4 +39,4 @@ design:
 ---
 
 [I'm an external link](https://www.google.com)
-[A project]({{ref "/about/#projects"}} "About Us")
+[A project]({{< ref "about/#projects" >}} "About Us")
