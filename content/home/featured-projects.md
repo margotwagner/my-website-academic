@@ -35,4 +35,6 @@ design:
   #   4 = Citation (publication only)
   view: 3
   # look into more options
+
+[A project]({{< relref "about/" >}})
 ---
