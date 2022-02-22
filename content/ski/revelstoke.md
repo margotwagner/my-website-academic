@@ -22,6 +22,6 @@ Vibe: pro freeskiers and backcountry nuts
 
 ![screen reader text](open-book.jpg "caption")
 
-![screen reader text](img-5943.jpg "caption")
+![screen reader text](img-5943.png "caption")
 *Pictures and videos coming soon*
 
