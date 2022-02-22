@@ -14,4 +14,6 @@ Red mountain is in Rossland, a former Canadian gold mining town. It’s one of t
 
 Red mountain was undeniably quaint. No other resort I’ve been to has felt quite like a “neighborhood mountain” such as this. There were very few people, even on the weekend, and everyone seemed to know each other. The parking lot attendant kept us company while we got ready, regaling us with his life story in a thick Canadian accent. The mountain had a place for everyone, with kids and their parents in matching costumes on the lower parts and expert old-man skiers and 20-something-year-old freeskiers jumping off rock ledges higher up. The lifts seemed barely newer than the resort, so those took quite some time to get up, and it certainly felt like a substantial portion of the day was spent on the lifts. We caught a bit of the Canadian open freeskiing competition which was unreal. Unfortunately, we got no new snow but plenty of sun, so it felt like spring skiing. That being said, by the time we were leaving, there were many bare patches. Some of the steeper double blacks couldn’t be skied because they were too exposed. I would absolutely like to visit again with fresh powder in a better snow year. 
 
+Vibe: local families and teenagers 
+
 *Pictures and videos coming soon*
