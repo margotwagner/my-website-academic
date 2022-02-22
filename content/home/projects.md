@@ -11,6 +11,7 @@ weight: 65
 
 title: Projects
 subtitle: ''
+active: false
 
 content:
   # Page type to display. E.g. project.
