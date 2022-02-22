@@ -36,5 +36,3 @@ design:
   view: 3
   # look into more options
 ---
-
-[All projects]({{< ref "about/projects.md" >}})
