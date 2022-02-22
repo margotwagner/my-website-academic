@@ -22,7 +22,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #overlay_color: '#666'  # An HTML color value.
-    overlay_img: IMG_5942.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: revelstoke.jpeg  # Image path relative to your `assets/media/` folder
   - title: Left
     content: 'I am left aligned 😄'
     align: left
