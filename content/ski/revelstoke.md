@@ -20,6 +20,6 @@ The snow never truly stopped while we were there, with the peak going in and out
 
 Vibe: pro freeskiers and backcountry nuts
 
-![screen reader text](revelstoke.jpg "caption")
+![screen reader text](revelstoke.jpeg "caption")
 *Pictures and videos coming soon*
 
