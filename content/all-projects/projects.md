@@ -31,6 +31,8 @@ content:
     tag: Deep Learning
   - name: Machine Learning
     tag: Machine Learning
+  - name: Computational Neuroscience
+    tag: Computational Neuroscience
   - name: Other
     tag: Demo
 
