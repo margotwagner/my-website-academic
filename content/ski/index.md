@@ -1,5 +1,5 @@
 ---
-title: Ikonic Tour 2022
+title: Ski
 date: "2022-02-04T06:57:00Z"
 subtitle: Ski season on the road
 type: "widget_page"
