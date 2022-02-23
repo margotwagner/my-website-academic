@@ -11,7 +11,9 @@ design:
 
 # Big Sky
 *About coming soon*
+
 *Review coming soon*
+
 *Pictures and videos coming soon*
 
 
