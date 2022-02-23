@@ -7,13 +7,13 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 22
 
-title: Gallery
+title: ""
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="revelstoke" >}}
