@@ -20,8 +20,6 @@ header:
   caption: ""
   image: ""
 
-# Add trail maps (Honest Trail maps)
-
 # Add rotating images 
 
 # Eventually videos

@@ -14,4 +14,6 @@ Schweitzer is settled in the northern Idaho panhandle, about 45 miles from the C
 
 *Review coming soon*
 
+Vibe: locals with more and more out-of-townders on the way
+
 *Pictures and videos coming soon*
