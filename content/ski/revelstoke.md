@@ -20,12 +20,5 @@ The snow never truly stopped while we were there, with the peak going in and out
 
 Vibe: pro freeskiers and backcountry nuts
 
-![screen reader text](open-book.jpg "caption")
-
-![screen reader text](img-5943.png "caption")
-
-![screen reader text](img-5943.jpg "caption")
-
-![screen reader text](albums/revelstoke/open-book.jpg "caption")
-*Pictures and videos coming soon*
+*videos coming soon*
 
