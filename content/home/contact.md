@@ -24,6 +24,33 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true 
+
+# Contact (edit or remove options as required)
+
+email: mwagner@ucsd.edu
+phone: ''
+address:
+  street: 10010 N Torrey Pines Rd
+  city: La Jolla
+  region: CA
+  postcode: '92037'
+  country: United States
+  country_code: US
+coordinates:
+    latitude: '32.8867'
+    longitude: '-117.2461'
+directions: ''
+appointment_url: ''
+contact_links:
+  - icon: envelope
+    icon_pack: fas 
+    name: mwagner92796@gmail.com
+    links: mailto:mwagner92796@gmail.com
+#contact_links:
+#  - icon: linkedin-in
+#    icon_pack: fab
+#    name: Connect with me
+#    link: 'https://www.linkedin.com/in/margot-wagner/'
   
 design:
   columns: '2'
