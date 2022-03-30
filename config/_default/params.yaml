@@ -5,52 +5,49 @@
 
 # Appearance
 
-theme: minimal 
-day_night: true
-font: ''
+theme_day: minimal 
+theme_night: minimal
+font: minimal
 font_size: L
 
-# SEO
+# SEO (Search Engine Optimization: https://wowchemy.com/docs/hugo-tutorials/seo/)
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
-
-# Contact (edit or remove options as required)
-
-email: mwagner@ucsd.edu
-contact_links:
-  - icon: envelope
-    icon_pack: fas 
-    name: mwagner92796@gmail.com
-    links: mailto:mwagner92796@gmail.com
-#phone: 630 808 6840
-#address:
-  #street: 450 Serra Mall
-  #city: Stanford
-  #region: CA
-  #postcode: '94305'
-  #country: United States
-  #country_code: US
-#contact_links:
-#  - icon: linkedin-in
-#    icon_pack: fab
-#    name: Connect with me
-#    link: 'https://www.linkedin.com/in/margot-wagner/'
-
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+    
+# Site footer
+
+footer:
+  copyright:
+    notice: '© 2022 Margot Wagner'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
@@ -60,85 +57,51 @@ address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-math: true
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: true
+  diagram: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/margotwagner/my-website-academic/'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 15
+    
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
