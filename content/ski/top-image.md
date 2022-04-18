@@ -11,12 +11,12 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: mountain.jpeg
     image_darken: 1.0
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["200px", "0", "200px", "0"]
+    padding: ["300px", "0", "300px", "0"]
 ---
