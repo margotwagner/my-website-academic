@@ -11,7 +11,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: mountain.jpeg
+    image: mountain.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
