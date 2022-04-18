@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 21
 
-title: Gallery
+title: ""
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 {{< gallery album="revelstoke" >}}
