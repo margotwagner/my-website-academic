@@ -14,6 +14,9 @@ subtitle:
 
 design:
   columns: '1'
+    spacing:
+    #padding: ["20px", "0", "20px", "0"]
+    image_position: center
 ---
 
 {{< gallery album="revelstoke" >}}
