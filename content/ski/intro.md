@@ -43,6 +43,6 @@ January 31st - March 15th, 2022
 <br/><br/>
 
 <div align="center">
-  <img src="resort-quick-facts.png" width="800" height="600">
+  <img src="resort-quick-facts.png" width="1000" height="800">
   <figcaption>Resort quick facts</figcaption>
 </div>
