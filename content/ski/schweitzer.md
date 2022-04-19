@@ -16,4 +16,14 @@ Schweitzer feels like it’s up-and-coming. If I had any money lying around, thi
 
 Vibe: locals with more and more out-of-towners on the way
 
-*Pictures and videos coming soon*
+<div align="center">
+  <img src="trail-maps/schweitzer-front.png" width="1000" height="800">
+  <figcaption>Honest trail map of Schweitzer (front)</figcaption>
+</div>
+
+<div align="center">
+  <img src="trail-maps/schweitzer-back.png" width="1000" height="800">
+  <figcaption>Honest trail map of Schweitzer (back)</figcaption>
+</div>
+
+*Videos coming soon*
