@@ -1,6 +1,7 @@
 ---
 widget: blank
 headless: true
+active: false
 
 date: "2022-03-01T06:57:00Z"
 weight: 90  # section position on page
@@ -23,6 +24,11 @@ https://en.wikipedia.org/wiki/Solitude_Mountain_Resort
 - Relatively "family-friendly"
 
 *Review coming soon*
+- Sneaky good
+- Holds the snow the best
+- Definitely has some nutty runs
+- Steeps mostly, some trees (steep trees)
+
 
 *Pictures and videos coming soon*
 

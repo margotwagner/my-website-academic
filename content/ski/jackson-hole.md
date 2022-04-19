@@ -1,6 +1,7 @@
 ---
 widget: blank
 headless: true
+active: false
 
 date: "2022-02-022T06:57:00Z"
 weight: 60  # section position on page
@@ -13,6 +14,10 @@ design:
 *About coming soon*
 
 *Review coming soon*
+- Overdone
+- Mostly bad snow while I was there
+- Powder day was sick, got skied out super quickly
+
 
 *Pictures and videos coming soon*
 
