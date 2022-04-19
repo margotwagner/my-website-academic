@@ -21,7 +21,7 @@ The snow never truly stopped while we were there, with the peak going in and out
 Vibe: pro freeskiers and backcountry nuts, people that go hard
 
 <div align="center">
-  <img src="trail-maps/revelstoke-map.png" width="800" height="600">
+  <img src="trail-maps/revelstoke-map.png" width="1000" height="800">
   <figcaption>Honest trail map of Revelstoke</figcaption>
 </div>
 

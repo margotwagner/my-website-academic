@@ -17,7 +17,7 @@ Red mountain was undeniably quaint. No other resort I’ve been to has felt quit
 Vibe: local families and teenagers 
 
 <div align="center">
-  <img src="trail-maps/revelstoke-map.png" width="800" height="600">
+  <img src="trail-maps/rm-map.png" width="1000" height="800">
   <figcaption>Honest trail map of Red Mountain</figcaption>
 </div>
 
