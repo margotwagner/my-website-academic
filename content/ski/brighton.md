@@ -11,15 +11,7 @@ design:
 ---
 
 # Brighton
-*About coming soon*
-- Big cottonwood canyon
-- First in Utah and one of first in US  1936 with rope tow
-- “no-frills” resoirt
-- Mostly locals
-- Extensive backcountry access with single ride lift ticket
-- Wasatch
-- Connected to solitude
-- Many pros start here
+Brighton, along with Solitude, is in the Wasatch Range of the Rockies in Big Cottonwood Canyon. It boasts a long history as the first ski resort in Utah and one of the first in the US, opening in 1936 with a rope tow. It’s considered a “no-frills” resort and acts as such, with standard parking, limited food options, and many brown bag lunch spots. Offering a single ride lift ticket option, Brighton also opens up to extensive backcountry access. Though it still counts as a full day, it is connected to Solitude via the SolBright run, which is relatively new and definitely not for beginners. Brighton offers a lot in the way of park riding from small to extra-large features, so a lot of pros got their start here. It is also one of the few resorts offering night skiing.
 
 
 *Review coming soon*
