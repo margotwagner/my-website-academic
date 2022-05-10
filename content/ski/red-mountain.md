@@ -20,5 +20,3 @@ Vibe: local families and teenagers
   <img src="trail-maps/rm-map.png" width="1000" height="800">
   <figcaption>Honest trail map of Red Mountain</figcaption>
 </div>
-
-*Videos coming soon*

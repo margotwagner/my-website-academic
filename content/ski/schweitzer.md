@@ -25,5 +25,3 @@ Vibe: locals with more and more out-of-towners on the way
   <img src="trail-maps/schweitzer-back.png" width="1000" height="800">
   <figcaption>Honest trail map of Schweitzer (back)</figcaption>
 </div>
-
-*Videos coming soon*
