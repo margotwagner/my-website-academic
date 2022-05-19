@@ -18,7 +18,7 @@ design:
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: mountain.jpg
+  image: "mountain.jpg"
 
 # Add rotating images 
 
