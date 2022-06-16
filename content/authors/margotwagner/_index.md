@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Bioengineering
     institution: University of California, San Diego
-    year: 2023
+    year: 2023 (Expected)
   - course: MS in Bioengineering 
     institution: University of California, San Diego
     year: 2020

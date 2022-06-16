@@ -30,7 +30,9 @@ experience:
     date_start: '2018-09-25'
     date_end: ''
     description: |2-
-        * Working to create a next generation biologically inspired AI neural network with biophysically meaningful parameters tunable for specific learning task
+	* 	Building forward probabilistic graphical model for fMRI data representation using a 11,500 subject longitudinal dataset
+        * Discovering main predictors of mental illness using machine/deep learning in the large-scale multimodal and longitudinal ABCD dataset utilizing behavioral, demographic, clinical measurement, imaging, and biological data
+	* Working to create a next generation biologically inspired AI neural network with biophysically meaningful parameters tunable for specific learning task
         * Built a biophysically realistic stochastic 3D reaction-diffusion model for synaptic transmission using MCell software and Python scripts containing 120 molecular states
         * Developed equivalent stochastic Markov chain synapse abstraction in Python with biologically tunable parameters, decreasing runtime by 93% and FLOPs by an order of magnitude for use in artificial neural networks models
         * Optimized parameters to match biological conditions using parameter sweep techniques by running models on supercomputer clusters and analyzed subsequent large-scale datasets
