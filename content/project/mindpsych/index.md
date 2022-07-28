@@ -1,12 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: MindPsych
+summary: A digital mental health solution for psychiatric diagnostics and treatment through data integration. MindPsych provides a patient data integration app as well as a provider portal allowing for optimal patient-provider interactions.
+
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Digital Health
+- Python
+date: "2021-04-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: "https://sites.google.com/eng.ucsd.edu/mindpsych"
 
 image:
   caption: "BERT Architecture that was fine-tuned with the premise-hypothesis pairs (Fig from Devlin 2018)."
@@ -14,6 +16,6 @@ image:
   focal_point: Smart
   preview_only: false
 
-draft: true
+draft: false
 featured: false
 ---
