@@ -1,6 +1,6 @@
 ---
 title: PHARMonius
-summary: An app-based solution to polypharmacy management using data integration and patient empowerment. A winner in MedHacks 2021, this project proposed initial product design and proof of concept for an app aimed to mitigate overprescribing and aid in medication management. It includes a daily medication management system with provider and caregiver access, health tracking with sensor integration, EHR data integration, intervention tracking, and alerts for medication interactions. Part of the management system includes the ability to scan medications into the app. 
+summary: An app-based solution to polypharmacy management using data integration and patient empowerment. A winner in MedHacks 2021, this project proposed initial product design and proof of concept for an app aimed to mitigate overprescribing and aid in medication management.
 tags:
 - Digital Health
 - Python
@@ -14,6 +14,16 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+links:
+- icon: github
+  icon_pack: fab
+  name: Repo
+  url: https://github.com/margotwagner/medhacks2021
+url_code: ""
+url_pdf: ""
+url_slides: "uploads/pharmonious.pdf" # from static/
+url_video: ""
 
 draft: false
 featured: false
