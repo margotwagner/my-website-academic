@@ -17,6 +17,4 @@ What once was an extremely rugged mountain reserved for ski nuts with the advent
 
 Vibe: rich out-of-towners and pissed off locals
 
-*Pictures coming soon*
-
 
