@@ -18,6 +18,3 @@ Alta and Snowbird are technically connected, but the vibe feels different, highl
 Alta doesn’t allow snowboarders, and as a result there’s a bit of a chicken-egg situation with the vibe there. It is on average a much older crowd and can be a bit stuffier. That being said, there is some merit to it because it’s a lot easier for snowboarders (speaking as someone who snowboards as well) to clear new snow off a run with the I’m-not-good-enough-for-this-run sideways slide down the mountain. As such, powders sticks longer, and the runs don’t get as icy as quickly. If there’s no new snow, it’s difficult everywhere though because of the rocks. Everything off High Traverse is a great time with good snow as well as Wildcat. Supreme lift has good steeps up higher then some cruising glades lower down. Skiers that are regulars at Alta are some of the bests in the US. On a busy day, the lifts can get backed up, but I love Alta. It’s worth it.  
 
 Vibe: locals (typically old men) and families; some nutty younger skiers.
-
-
-*Pictures coming soon*

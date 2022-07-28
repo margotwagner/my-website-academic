@@ -4,7 +4,7 @@ headless: true
 active: true
 
 date: "2022-02-015T06:57:00Z"
-weight: 100  # section position on page
+weight: 120  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,8 +16,3 @@ Steamboat Ski Area is located in Steamboat Springs on Mount Werner in the Park M
 Steamboat is an incredibly family-friendly ski area with a large range of terrain abilities. In my opinion, the only thing is lacks is very difficult steep terrain at the upper end of the skill level, which is pretty typical of many Colorado resorts. On the other hand, there’s some great cruising glades. The area gets a lot of snow, making it a great place to hang out and ski casually. Getting around the mountain can be a bit slow, especially if you’re trapped behind a family on the numerous catwalks. It can get really busy, so I would avoid going there during any “school” holidays if it can be avoided (ie winter or spring break). The local kids are impossible to miss because they will rip past you in packs with absolutely no fear. 
 
 Vibe: average out-of-town families and local nuts
-
-
-*Pictures coming soon*
-
-

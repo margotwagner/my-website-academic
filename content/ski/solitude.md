@@ -4,7 +4,7 @@ headless: true
 active: true
 
 date: "2022-03-01T06:57:00Z"
-weight: 90  # section position on page
+weight: 110  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,7 +16,3 @@ Solitude is also in Big Cottonwood Canyon in the Wasatch Mountain Range, neighbo
 Unlike some of the other resorts, Solitude still feels local and underappreciated. Because there’s less traffic than elsewhere and there’s good tree coverage, it holds the snow the best. At the beginning of our stay, we found ourselves going here often because there were still untouched tracks if you know where to look. It also remains as the only Utah resort with unlimited days, so it was a great place to get a couple laps in without worrying about burning a day. Solitude has a generally steeper pitch than Brighton resulting in steeper pitches and a higher ceiling for run difficulty.  
 
 Vibe: technically skilled locals 
-
-*Pictures coming soon*
-
-
