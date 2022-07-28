@@ -1,19 +1,20 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: PHARMonius
+summary: An app-based solution to polypharmacy management using data integration and patient empowerment. A winner in MedHacks 2021, this project proposed initial product design and proof of concept for an app aimed to mitigate overprescribing and aid in medication management. It includes a daily medication management system with provider and caregiver access, health tracking with sensor integration, EHR data integration, intervention tracking, and alerts for medication interactions. Part of the management system includes the ability to scan medications into the app. 
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Digital Health
+- Python
+date: 2021-09-12T20:06:45.112Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: "https://sites.google.com/eng.ucsd.edu/pharmonious"
 
 image:
-  caption: "BERT Architecture that was fine-tuned with the premise-hypothesis pairs (Fig from Devlin 2018)."
+  caption: "UI prototype demonstrating medication management system"
   filename: featured
   focal_point: Smart
   preview_only: false
 
-draft: true
+draft: false
 featured: false
 ---
