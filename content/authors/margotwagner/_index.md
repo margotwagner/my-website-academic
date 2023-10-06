@@ -76,4 +76,4 @@ I am excited about modernizing how we treat and diagnose mental health through t
 
 Also here you'll find my passions including skiing, travelling, comedy, writing and more!
 
-{{< icon name="download" pack="fas" >}} Download my CV{{< staticref "uploads/MargotWagnerCV.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my CV {{< staticref "uploads/MargotWagnerCV.pdf" "newtab" >}}here{{< /staticref >}}.
