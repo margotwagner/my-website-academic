@@ -6,11 +6,11 @@ title: Margot Wagner
 superuser: true
 
 # Role/position/tagline
-role: Bioengineering PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, San Diego
+- name: University of California San Diego
   url: https://www.ucsd.edu/
 - name: Salk Institute
   url: https://www.salk.edu/
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mwagner@ucsd.com'
+  link: 'mailto:margot@margotwagner.com'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/margot-wagner/
@@ -76,4 +76,4 @@ I am excited about modernizing how we treat and diagnose mental health through t
 
 Also here you'll find my passions including skiing, travelling, comedy, writing and more!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my CV{{< staticref "uploads/MargotWagnerCV.pdf" "newtab" >}}here{{< /staticref >}}.
