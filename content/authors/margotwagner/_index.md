@@ -20,9 +20,9 @@ bio: Interested in the use of data science and AI in mental health and using neu
 
 # Interests to show in About widget
 interests:
-- Data science, machine learning and artificial intelligence
-- Mental health, psychiatry, and psychology
-- Computational neuroscience
+- Machine Learning
+- Computational Neuropsychiatry
+- Engineering
 
 # Education to show in About widget
 education:
