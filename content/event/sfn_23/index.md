@@ -1,5 +1,5 @@
 ---
-title: Increased connectivity in adolescent depression - using deep learning for neuroimaging insights
+title: Understanding the Stressed, Depressed, Adolescent Brain
 
 event: Understanding the Stressed, Depressed, Adolescent Brain
 event_url: https://www.softconference.com/WebcastSystem/Webcast.aspx?WebcastID=130&SessionID=430952
@@ -12,8 +12,8 @@ address:
   postcode: '20001'
   country: United States
 
-summary: This is where the summary goes.
-abstract: "ABSTRACT: The COVID-19 pandemic exacerbated the rising rate of depression among teenagers. Neuroscientists will discuss the latest research into structural abnormalities and neural wiring of the depressed adolescent brain. Experts will also explain how the COVID-19 pandemic transformed the brains of millions of teenagers and which factors exacerbated or mitigated this transformation."
+summary: The COVID-19 pandemic exacerbated the rising rate of depression among teenagers. Neuroscientists will discuss the latest research into structural abnormalities and neural wiring of the depressed adolescent brain. Experts will also explain how the COVID-19 pandemic transformed the brains of millions of teenagers and which factors exacerbated or mitigated this transformation.
+abstract: "Increased connectivity in adolescent depression: using deep learning for neuroimaging insights"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: Wagner, Margot and Stamoulis, Caterina and Kuhl, Patricia and Powell, Elizabeth
 tags: []
 
 # Is this a featured talk? (true/false)
