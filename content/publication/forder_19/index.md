@@ -1,5 +1,5 @@
 ---
-title: 'A Physiologically-Based Pharmacokinetic Model for Targeting Calcitriol-Conjugated Quantum Dots to Inflammatory Breast Cancer Cells'
+title: 'A physiologically-based pharmacokinetic model for targeting calcitriol-conjugated quantum dots to inflammatory breast cancer cells'
 authors:
 - James Forder
 - Mallory Smith

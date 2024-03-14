@@ -1,5 +1,5 @@
 ---
-title: 'A Physiology-Based Pharmacokinetic Approach to Calcitriol Quantum Dot Distribution for Use in Inflammatory Breast Cancer Treatment'
+title: 'A physiology-based pharmacokinetic approach to calcitriol quantum dot distribution for use in inflammatory breast cancer treatment'
 authors:
 - margotwagner
 date: 2018-06-01T23:09:22.194Z

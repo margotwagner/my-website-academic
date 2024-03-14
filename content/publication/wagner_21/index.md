@@ -1,5 +1,5 @@
 ---
-title: 'Markov Chain Abstractions of Electrochemical Reaction-Diffusion in Synaptic Transmission for Neuromorphic Computing'
+title: 'Markov chain abstractions of electrochemical reaction-diffusion in synaptic transmission for neuromorphic computing'
 authors:
 - margotwagner
 - Thomas M. Bartol
@@ -31,7 +31,7 @@ url_dataset: 'https://github.com/margotwagner/markov-mcell-data'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
