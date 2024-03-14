@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: ''
+  caption: 'Adolescent neuroscience panel including (from left to right) Drs. Margot Wagner, Caterina Stamoulis, Patricia Kuhl and moderator Elizabeth Powell'
   focal_point: Right
 
 links:
