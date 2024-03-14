@@ -10,7 +10,7 @@ headless: true
 weight: 70
 active: true
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks & Conferences'
 subtitle:
 
 content:
