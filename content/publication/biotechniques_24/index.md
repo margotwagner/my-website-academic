@@ -1,5 +1,5 @@
 ---
-title: 'EEG source derived salience network coupling supports real-world attention switching'
+title: 'Investigating altered connectivity in the depressed adolescent brain'
 authors:
 - margotwagner
 date: 2024-01-25T23:09:22.194Z
